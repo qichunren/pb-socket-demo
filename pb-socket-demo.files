@@ -1,0 +1,9 @@
+src/addressbook.pb.cc
+src/addressbook.pb.h
+src/addressbook.proto
+src/main.cpp
+config.h
+Makefile.am
+src/Makefile.am
+configure.ac
+autogen.sh
